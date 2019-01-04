@@ -1,3 +1,14 @@
+This Repo contains:
+- Architecture_Diagrams: Diagrams provided by Udacity
+- Final_Files: Final Word and Excel files
+- Final_PDF: Final files converted to PDF
+- Template_Files: Template Word and Excel files from Udacity
+
+
+---
+# Original Readme from Udacity
+---
+
 # Functional Safety of a Lane Assistance System
 
 
